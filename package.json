@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gsap": "^3.11.5",
+    "lightbox2": "^2.11.4"
+  }
+}
